@@ -18,8 +18,8 @@ Atuo no monitoramento, análise e automação de dados de sistemas fotovoltaicos
 
 | Projeto                        | Descrição                                                                | Status    |
 | ------------------------------ | ------------------------------------------------------------------------ | --------- |
-| KPI - Energia Solar | Dashboard Streamlit de KPIs para sistemas fotovoltaicos da UFPA        | 🔥 Ativo  |
-| KPI - Mobilidae Elétrica           | Monitoramento de mobilidade elétrica e integração de dados              | 🚗⚡ Em andamento |
+| KPI - Energia Solar | Dashboard Streamlit de KPIs para sistemas fotovoltaicos da UFPA        | 🔥 Em funcionamento  |
+| KPI - Mobilidae Elétrica           | Monitoramento de mobilidade elétrica e integração de dados              | 🔥 Em funcionamento |
 
 ---
 
