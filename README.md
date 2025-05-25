@@ -2,7 +2,7 @@
 
 **Mestrando em Engenharia Eletrica | Energias Renováveis**
 
-Atuo no monitoramento, análise e automação de dados de sistemas fotovoltaicos e energia limpa na UFPA, com foco em KPIs, mobilidade elétrica.
+Desenvolvo atividades de monitoramento, análise e automação de dados aplicados a sistemas fotovoltaicos e fontes de energia limpa na UFPA, com ênfase em indicadores de desempenho (KPIs) e soluções voltadas à mobilidade elétrica.
 
 ---
 
